@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SQL/Shopping.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/AdminTree.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/script/regcheckdata.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/script/style.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/script/toc.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/userReg.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/userRegOK.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/category/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/category/CategoryService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/order/OrderMgr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/product/ProductMySQLDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/product/ProductSearchFormBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/stat/SalesCountServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/test/BarChartDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/user/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bjsxt/shopping/util/servlet/FileUpload.java" charset="GBK" />
+  </component>
+</project>
